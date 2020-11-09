@@ -30,7 +30,8 @@
         "ts-node": "^8.4.1",
         "tsconfig-paths": "^3.9.0",
         "typescript": "^3.6.4",
-        "webdriverio": "^5.15.2"
+        "webdriverio": "^5.15.2",
+        "@wdio/crossbrowsertesting-service": "^6.1.14"
     },
     "dependencies": {
         "jsdom": "^15.2.0",
